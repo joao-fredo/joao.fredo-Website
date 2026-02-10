@@ -115,14 +115,14 @@ body {
 }
 
 .hero-premium {
-  background-image: url("images/POLI.jpg");
+  background-image: url("POLI.jpg");
 }
 .parallax-1 {
-  background-image: url("images/BG3.jpg");
+  background-image: url("BG3.jpg");
   height: 60vh;
 }
 .parallax-3 {
-  background-image: url("images/Pressao.jpg");
+  background-image: url("Pressao.jpg");
   height: 60vh;
 }
 
@@ -800,4 +800,5 @@ body {
 }
 p{
   font-size: 1.15em;
+
 }
